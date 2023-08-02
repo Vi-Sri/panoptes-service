@@ -1,0 +1,6 @@
+ftfy
+regex
+tqdm
+opencv-python
+patchify
+flask

@@ -1,0 +1,9 @@
+.App {
+  background-image: linear-gradient(#001a53, #38b2a5);
+  min-height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white; 
+}
+
